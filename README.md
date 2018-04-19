@@ -2,7 +2,7 @@
 # Shortcodes
 ## sss-grid
 ### Usage
-[sss-grid post_type="post" image=false content=true player=true]
+[sss-grid post_type="post" image="false" content="true" player="true"]
 ### Attributes
 post_type - defaults to 'post'. other values can be other post types and custom post types.
 image - defaults to false. sets if the post thumbnail should be displaying.
